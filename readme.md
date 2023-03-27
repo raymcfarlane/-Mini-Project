@@ -32,4 +32,5 @@ THEN I find a concise, descriptive title
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's appearance:
+01-html-css-git-homework-demo.png
