@@ -33,4 +33,5 @@ THEN I find a concise, descriptive title
 ## Mock-Up
 
 The following image shows the web application's appearance:
-01-html-css-git-homework-demo.png
+![Horisean](https://user-images.githubusercontent.com/122712555/228092986-94d31f51-d769-4d52-8383-0b6617fd22ea.JPG)
+
